@@ -433,7 +433,7 @@
         <section id="curriculo" style="text-align: center; border-bottom: none;">
             <h2>05. Currículo</h2>
             <p style="margin-bottom: 30px; color: var(--text-muted);">Faça o download do meu currículo completo em PDF para conferir mais detalhes.</p>
-            <a href="[file:///C:/Users/eilis/Downloads/apple%20academy%20project/Curriculo_Nicoly_Ferreira_Ricardo_%20(1).pdf" target="_blank" class="btn btn-cyan">Baixar currículo.pdf](https://drive.google.com/file/d/1Q_MQdGJ6VGtIKIBwj_KQM5HRV5P94-Rg/view?usp=drive_link)</a>
+            <a href="[file:///C:/Users/eilis/Downloads/apple%20academy%20project/Curriculo_Nicoly_Ferreira_Ricardo_%20(1).pdf" target="_blank" class="btn btn-cyan">Baixar currículo.pdf](https://drive.google.com/file/d/1Q_MQdGJ6VGtIKIBwj_KQM5HRV5P94-Rg/view?usp=drive_link)"</a>
         </section>
     </div>
 

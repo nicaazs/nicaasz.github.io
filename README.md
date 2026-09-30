@@ -313,7 +313,7 @@
                         <span class="tag">MySQL</span>
                         <span class="tag">HTML/CSS</span>
                         <span class="tag">Git/GitHub</span>
-                        <span class="tag">UI/UX Desing</span>
+                        <span class="tag">UI/UX Design</span>
                     </div>
                 </div>
             </div>
@@ -433,7 +433,7 @@
         <section id="curriculo" style="text-align: center; border-bottom: none;">
             <h2>05. Currículo</h2>
             <p style="margin-bottom: 30px; color: var(--text-muted);">Faça o download do meu currículo completo em PDF para conferir mais detalhes.</p>
-           <a href="curriculo.pdf" target="_blank" class="btn btn-cyan">Baixar currículo.pdf</a>
+            <a href="https://raw.githubusercontent.com/nicaasz/nicaasz.github.io/main/curriculo.pdf" target="_blank" class="btn btn-cyan">Baixar currículo.pdf</a>
         </section>
     </div>
 
@@ -445,13 +445,12 @@
         <div class="contact-links">
             <a href="mailto:nicolyferreira.dev@gmail.com">📧 Email</a>
             <a href="tel:+5541998538742">📱 WhatsApp</a>
-            <a href="https://www.linkedin.com/in/nicoly-ferreira-b357a6299/?isSelfProfile=true">💼 LinkedIn</a>
-            <!-- Link do GitHub já adicionado! -->
+            <a href="https://www.linkedin.com/in/nicoly-ferreira-b357a6299/?isSelfProfile=true" target="_blank">💼 LinkedIn</a>
             <a href="https://github.com/Tokyow1tch" target="_blank">💻 GitHub</a>
         </div>
         
         <p style="color: var(--text-muted); font-size: 0.8rem; margin-top: 50px; font-family: 'Fira Code', monospace;">
-             Nicoly Ferreira &copy; 2026
+            Nicoly Ferreira &copy; 2026
         </p>
     </footer>
 

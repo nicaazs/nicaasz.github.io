@@ -433,7 +433,7 @@
         <section id="curriculo" style="text-align: center; border-bottom: none;">
             <h2>05. Currículo</h2>
             <p style="margin-bottom: 30px; color: var(--text-muted);">Faça o download do meu currículo completo em PDF para conferir mais detalhes.</p>
-            <a href="https://drive.google.com/file/d/1Q_MQdGJ6VGtIKIBwj_KQM5HRV5P94-Rg/view?usp=drive_link" target="_blank" class="btn btn-cyan">Baixar currículo.pdf</a>
+           <a href="curriculo.pdf" target="_blank" class="btn btn-cyan">Baixar currículo.pdf</a>
         </section>
     </div>
 
